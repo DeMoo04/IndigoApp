@@ -1,0 +1,20 @@
+version: 1.4.0
+files:
+  - url: Indigo-Setup-1.4.0.exe
+    sha512: bG/w0SHSxVnt8OW1QjULfEep3vC8heSAHhaSiu0ZH6DY5a9riyKhe2/ASoB8HNb3v77QqckeLAEzX8ndF1SG9A==
+path: Indigo-Setup-1.4.0.exe
+sha512: bG/w0SHSxVnt8OW1QjULfEep3vC8heSAHhaSiu0ZH6DY5a9riyKhe2/ASoB8HNb3v77QqckeLAEzX8ndF1SG9A==
+packages:
+  ia32:
+    size: 70654031
+    sha512: URSwkzD5/k3Z0QLXaTgamwKDbB2TdfCr+rJBfkwGm3U0Um7ZwPJgFsk/Hl1OBsVQXV72ovWGpBri09u4NX2faQ==
+    blockMapSize: 74672
+    path: indigo-1.4.0-ia32.nsis.7z
+    file: indigo-1.4.0-ia32.nsis.7z
+  x64:
+    size: 74681997
+    sha512: x0X3ufVOOglp4Jix+6SbuKVcW/BAmuTXxf9YvJA+HZRJ/hdEFycTJQWPnFCzBBPdB4DGBwXg8vybe9LtmqCOtQ==
+    blockMapSize: 78367
+    path: indigo-1.4.0-x64.nsis.7z
+    file: indigo-1.4.0-x64.nsis.7z
+releaseDate: '2025-01-16T11:14:26.219Z'
